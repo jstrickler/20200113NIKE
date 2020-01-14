@@ -2,6 +2,6 @@
 import calendar
 
 tcal = calendar.TextCalendar()  # <1>
-print(tcal.formatmonth(2012, 1))  # <2>
+print(tcal.formatyear(2012))  # <2>
 
 print()
