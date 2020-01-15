@@ -1,0 +1,29 @@
+1:Sir John A.:Macdonald:1867-7-1:1873-11-5:Liberal-Conservative
+2:Alexander:Mackenzie:1873-11-7:1878-10-8:Liberal
+3:Sir John A.:Macdonald:1878-10-17:1891-6-6:Liberal-Conservative
+4:Sir John:Albott:1891-6-16:1892-11-24:Liberal-Conservative
+5:Thompson:Sir John:1892-12-5:1894-12-12:Conservative
+6:Sir Mackenzie:Bowell:1894-12-21:1896-4-27:Conservative
+7:Sir Charles:Tupper:1896-5-1:1896-7-8:Conservative
+8:Sir Wilfred:Laurier:1896-7-11:1911-10-6:Liberal
+9:Sir Robert:Borden:1911-10-10:1917-10-12:Conservative
+10:Sir Robert:Borden:1917-10-12:1920-7-10:Unionist
+11:Arthur:Meighen:1920-7-10:1921-12-29:NLC
+12:William Lyon Mackenzie:King:1921-12-29:1926-6-29:Liberal
+13:Arthur:Meighen:1926-6-29:1926-9-25:Conservative
+14:William Lyon Mackenzie:King:1926-9-25:1930-8-6:Liberal
+15:Richard Bedford:Bennett:1930-8-7:1935-10-23:Conservative
+16:William Lyon Mackenzie:King:1935-10-23:1948-11-15:Liberal
+17:Louis:St. Laurent:1948-11-15:1957-6-21:Liberal
+18:John:Diefenbaker:1957-6-21:1963-4-22:Progressive Conservative
+19:Lester B.:Pearson:1963-4-22:1968-4-20:Liberal
+20:Pierre:Trudeau:1968-4-20:1979-6-4:Liberal
+21:Joe:Clark:1979-6-4:1980-3-3:Progressive Conservative
+22:Pierre:Trudeau:1980-3-3:1984-6-30:Liberal
+23:John:Turner:1984-6-30:1984-9-17:Liberal
+24:Brian:Mulroney:1984-9-17:1993-6-25:Progressive Conservative
+25:Kim:Campbell:1993-6-25:1993-11-4:Progressive Conservative
+26:Jean:Chretien:1993-11-4:2003-12-12:Liberal
+27:Paul:Martin:2003-12-12:2006-2-6:Liberal
+28:Stephen:Harper:2006-2-6:2015-11-4:Conservative
+29:Justin:Trudeau:2015-11-4::Liberal

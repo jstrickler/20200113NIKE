@@ -59,5 +59,7 @@ print()
 for person in sorted(people, key=lambda e: e[3]):
     print(person)
 
+fruits.sort(key=str.lower)
+print(fruits)
 
 
