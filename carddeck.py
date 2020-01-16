@@ -13,6 +13,9 @@ class Card:
     suit: str
 
 class CardDeck(CardBase):
+    """
+    A deck of playing cards
+    """
     RANKS = '2 3 4 5 6 7 8 9 10 J Q K A'.split()
     SUITS = 'Clubs Diamonds Hearts Spades'.split()
 
