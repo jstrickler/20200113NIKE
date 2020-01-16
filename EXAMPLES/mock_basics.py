@@ -3,6 +3,9 @@
 import unittest
 from unittest.mock import Mock
 
+# from hamlib import Ham
+# ham = Ham()
+
 ham = Mock()  # <1>
 
 
@@ -21,6 +24,7 @@ class TestSpam(unittest.TestCase):  # <3>
     def test_spam_calls_ham(self):
         _ = Spam(42)  # <4>
         ham.assert_called_once_with(42)  # <5>
+
 
 
 if __name__ == '__main__':
