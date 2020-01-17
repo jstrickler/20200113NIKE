@@ -44,7 +44,7 @@ p = Pool(POOL_SIZE)  # <10>
 results = p.map(fetch_data, search_terms)  # <11>
 
 for search_term, result in zip(search_terms, results):  # <12>
-    print("{}:".format(search_term.upper()))
+    print("{}:".format(search_term.upper()), end=' ')
     if result:
         print(result)
     else:

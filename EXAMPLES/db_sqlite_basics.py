@@ -16,3 +16,4 @@ with sqlite3.connect("../DATA/presidents.db") as s3conn:  # <1>
 
     for row in s3cursor.fetchall():  # <5>
         print(' '.join(row))  # <6>
+

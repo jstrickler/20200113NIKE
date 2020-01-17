@@ -11,7 +11,7 @@ with closing(pymysql.connect(
 )) as myconn:
     mycursor = myconn.cursor()
 
-    for party_name in 'Whig', 'Federalist':
+    for party_name in 'Whig', 'Federalist', 'Democratic-Republicans':
         print(party_name.upper() + ':')
 
         mycursor.execute('''
